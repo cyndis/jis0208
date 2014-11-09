@@ -1,5 +1,3 @@
-#![feature(phase, slicing_syntax)]
-
 //! A library for decoding JIS X 0208-encoded characters into Unicode characters,
 //! as specified by the the Unicode Consortium's JIS0208.TXT.
 
