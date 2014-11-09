@@ -1,0 +1,8 @@
+[package]
+name = "jis0208"
+version = "0.1.0"
+authors = [ "Mikko Perttunen <cyndis@kapsi.fi>" ]
+
+[lib]
+name = "jis0208"
+path = "lib.rs"
